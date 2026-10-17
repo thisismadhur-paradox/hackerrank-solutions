@@ -6,7 +6,7 @@
 // Platform    HackerRank
 // Language    cpp
 // Status      Accepted
-// Submitted   2026-10-17, 10:24 a.m.
+// Submitted   2026-10-17, 10:25 a.m.
 // ──────────────────────────────────────────────────
 
 #include <iostream>
